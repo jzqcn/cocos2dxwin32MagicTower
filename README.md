@@ -21,6 +21,14 @@ A Magic Tower style game built with Cocos2d-x 3.17.2, featuring turn-based comba
 
 ---
 
+## 📦 下载 | Download
+
+👉 **安装包请前往 [Releases](../../releases) 页面下载**
+
+👉 **Download the installer from the [Releases](../../releases) page**
+
+---
+
 ## 🚀 运行方法 | How to Run
 
 1. ▶️ 双击运行 `luaTest.exe` 即可启动游戏
